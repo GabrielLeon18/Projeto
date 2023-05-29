@@ -2,6 +2,7 @@ body{
     background-image: url("https://www.penso.com.br/wp-content/uploads/2020/08/cyber-3400789_640.jpg");
     background-repeat: no-repeat;
     background-size: 1600px 820px;
+    width: 100%
 }
 
 button {
