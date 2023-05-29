@@ -38,6 +38,6 @@ button {
 }
 
 a {
-    padding: 100px 143px 10px 143px;
+    padding: auto;
     background-color:dodgerblue;
 }
