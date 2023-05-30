@@ -1,13 +1,52 @@
-a {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    padding: 100px 133px 10px 133px;
-    background-color: midnightblue;
-    color: white;
-    border-style:groove;
-    border-color: orange;
-    border-width: 5px;
+a[href="index.html"] {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 100px 133px 10px 133px;
+  background-color: midnightblue;
+  color: white;
+  border-style:groove;
+  border-color: orange;
+  border-width: 5px;
+}
+
+a[href="quemsomos.html"] {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 100px 133px 10px 133px;
+  background-color: midnightblue;
+  color: white;
+  border-style:groove;
+  border-color: orange;
+  border-width: 5px;
+}
+
+a[href="serviços.html"] {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 100px 133px 10px 133px;
+  background-color: midnightblue;
+  color: white;
+  border-style:groove;
+  border-color: orange;
+  border-width: 5px;
+}
+
+a[href="contatos.html"] {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  padding: 100px 133px 10px 133px;
+  background-color: midnightblue;
+  color: white;
+  border-style:groove;
+  border-color: orange;
+  border-width: 5px;
+}
+
+img{
+  padding: 100px 0 0 0;
+  width: 20px;
+  margin: 0 0 0 20%;
 }
 
 .insta{
-    whith: 30px
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  color: 
+  
 }
