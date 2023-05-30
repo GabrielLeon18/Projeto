@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://blog.foxmanager.com.br/wp-content/uploads/2020/06/importancia-tecnologia-da-informacao-na-empresa.jpg");
+    background-repeat: no-repeat;
+    background-size: 850px 850px;
+    background-color:darkblue;
+}
+
+span {
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    padding-left: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+}
+
+h1 {
+    color: orange;
+    margin: 5% 0 0 0;
+    padding-left: 65%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    margin: 0 0 0 1%;
+}
+
+h3 {
+    padding: auto;
+    margin: 120px 0 0 22%;
+}
+
+button {
+    padding: 25px 35px 35px 35px;
+    margin:  10px 0px 0px 69.4%;
+    color: white;
+    background-color: orange;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 120px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 120px;
+    background-color: midnightblue;
+    color: white;
+    border-style:groove;
+    border-color: orange;
+    border-width: 5px;
+}

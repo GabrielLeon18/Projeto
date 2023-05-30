@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://www.comunique-se.com.br/wp-content/uploads/2021/02/base-de-contatos-500x250.jpg");
+    background-repeat: no-repeat;
+    background-size: 900px 800px;
+    background-color:darkblue;
+}
+
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:white;
+    block-size: 0;
+}
+
+h1{
+    margin: 50px 0 80px 73%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    color:orange;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 0 80px 59%;
+    color:white;
+    font-size: 18px;
+}
+
+img{
+    width: 60px;
+    
+}
+
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 100px 131px 10px 131px;
+    background-color: midnightblue;
+    color: white;
+    border-style:groove;
+    border-color: orange;
+    border-width: 5px;
+}
