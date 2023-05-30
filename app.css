@@ -32,19 +32,16 @@ h3 {
     margin: 120px 0 0 22%;
 }
 
-button {
+
+
+.link-button{
+    visibility: hidden;
     padding: 25px 35px 35px 35px;
     margin:  10px 0px 0px 69.4%;
     color: white;
     background-color: orange;
     font-size: 30px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.link-button{
-    visibility: hidden;
-    padding: 25px 35px 35px 35px;
-    margin:  10px 0px 0px 69.4%;
 }
 a {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
