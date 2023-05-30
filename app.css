@@ -43,6 +43,8 @@ button {
 
 .link-button{
     visibility: hidden;
+    padding: 25px 35px 35px 35px;
+    margin:  10px 0px 0px 69.4%;
 }
 a {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
