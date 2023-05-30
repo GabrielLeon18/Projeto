@@ -41,6 +41,14 @@ button {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.link-button{
+    padding: 25px 35px 35px 35px;
+    margin:  10px 0px 0px 69.4%;
+    color: white;
+    background-color: orange;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 a {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 120px;
