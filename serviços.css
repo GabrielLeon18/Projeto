@@ -17,7 +17,7 @@ h2{
 
 h3{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    margin: 150px 0 20px 28%;
+    margin: 150px 0 100px 28%;
     font-size: 25px;
     color:orange;
 }
@@ -36,7 +36,7 @@ p{
 
 .link-button{
     padding: 25px 35px 35px 35px;
-    margin:  10px 0px 0px 67.2%;
+    margin:  10px 0px 0px 43%;
     color: white;
     background-color: orange;
     font-size: 30px;
