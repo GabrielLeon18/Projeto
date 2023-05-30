@@ -4,10 +4,10 @@ body{
     background-size: 1600px 820px;
 }
 
-button {
+.link-button{
     padding: 25px 35px 35px 35px;
-    margin:  10px 0px 0px 43%;
-    color:white;
+    margin:  10px 0px 0px 67.2%;
+    color: white;
     background-color: orange;
     font-size: 30px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
