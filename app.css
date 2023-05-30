@@ -24,7 +24,7 @@ h1 {
 }
 
 ul{
-    margin:  10px 0px 100px 60%;
+    margin:  30px 0px 100px 60%;
     color: white;
     font-size: 15px;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
@@ -39,7 +39,7 @@ p{
 
 h3 {
     padding: 22px 3px 50px 1px;
-    margin: 0 0 0 67.2%;
+    margin: 0 0 0 68.2%;
     color: white;
     font-size: 28px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -47,7 +47,7 @@ h3 {
 
 .link-button{
     padding: 25px 35px 35px 35px;
-    margin:  10px 0px 0px 67.2%;
+    margin:  10px 0px 0px 67.98%;
     color: white;
     background-color: orange;
     font-size: 30px;
