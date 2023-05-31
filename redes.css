@@ -1,3 +1,7 @@
+body{
+  background-color: blue
+}
+
 a[href="index.html"] {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   padding: 100px 133px 10px 133px;
@@ -44,7 +48,21 @@ img{
   margin: 0 0 0 20%;
 }
 
-.insta{
+.rede{
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   margin: 0;
+  color: white;
+  
+}
+
+img[src="https://logopng.com.br/logos/facebook-13.png"] {
+  width: 20px;
+  margin: 0 0 0 20%;
+  padding: 0 0 0 0;
+}
+
+img[src="https://t.ctcdn.com.br/09Y6BbLFxNn7XGCYRGzEI0p0oy8=/400x400/smart/filters:format(webp)/i490027.jpeg"] {
+  width: 20px;
+  margin: 0 0 0 20%;
+  padding: 0 0 0 0;
 }
