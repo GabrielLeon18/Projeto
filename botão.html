@@ -16,24 +16,25 @@
     </div>
 
     <form action="botão.php" method="post">
+  <label for="nome">Nome:</label>
+  <input type="text" id="nome" name="nome" placeholder="Seu nome" required>
 
-            <h1>CADASTRO</h1>
-            <br>
-            <br>
-            <p>Nome:</p> 
-            <input class="name" name="nome" required placeholder= "Digite seu Nome"><br>
-            <br>
-            <p>E-mail:</p>
-            <input class="email" name="email" required placeholder= "Digite seu E-mail"><br>
-            <br>
-            <p>Telefone:</p>
-            <input class="tel" type="tel" required placeholder="(xx) xxxxx-xxxx"><br>
-            <br>
-            <p>Serviço/Produto:</p>
-            <input class="service" name="serviço/produto" required placeholder= "Serviço"><br>
-            <br>
-            <br>
-            <input class=submit type="submit" name="Eviar" value="submit"><br>
-        </form>
+  <label for="email">E-mail:</label>
+  <input type="email" id="email" name="email" placeholder="Seu e-mail" required>
+
+  <label for="telefone">Telefone com DDD:</label>
+  <input type="tel" id="telefone" name="telefone" placeholder="Seu telefone" required>
+
+  <label for="servico">Serviço desejado:</label>
+  <select id="servico" name="servico" required>
+    <option value="">Selecione um serviço</option>
+    <option value="Serviço 1">Pacote upgrade</option>
+    <option value="Serviço 2">Pacote software</option>
+    <option value="Serviço 3">Pacote software</option>
+    <option value="Serviço 4">Outros serviços</option>
+  </select>
+
+  <button type="submit">Enviar</button>
+</form>
 </body>
 </html>
