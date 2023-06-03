@@ -1,4 +1,4 @@
-<?php
+<botão.php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // Coletar os dados do formulário
   $nome = $_POST['nome'];
