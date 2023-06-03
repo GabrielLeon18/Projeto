@@ -7,7 +7,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $servico = $_POST['servico'];
 
   // Definir o endereço de e-mail de destino
-  $destinatario = "start-tech-empresarial@outlook.com";
+  $destinatario = "mailto:start-tech-empresarial@outlook.com";
 
   // Montar o corpo do e-mail
   $assunto = "Novo contato do site";
