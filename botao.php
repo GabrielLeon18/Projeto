@@ -6,7 +6,7 @@
   $telefone = $_POST['telefone'];
   $servico = $_POST['servico'];
 
-  $destinatario = "start-tech-empresarial@outlook.com";
+  $destinatario = "mailto:start-tech-empresarial@outlook.com";
 
   $assunto = "Novo contato do site";
   $mensagem = "Nome: " . $nome . "\n";
