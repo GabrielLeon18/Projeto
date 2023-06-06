@@ -1,10 +1,10 @@
 <?php
   if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // Coletar os dados do formulário
-  $nome = $_POST['nome'];
-  $email = $_POST['email'];
-  $telefone = $_POST['telefone'];
-  $servico = $_POST['servico'];
+  $nome = $_POST[nome];
+  $email = $_POST[email];
+  $telefone = $_POST[telefone];
+  $servico = $_POST[servico];
 
   $destinatario = "start-tech-empresarial@outlook.com";
 
